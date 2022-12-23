@@ -6,5 +6,4 @@ model SlobodniPad
 equation
   der(put) = brzina "prva derivacija";
   der(brzina) = g - r * brzina "druga derivacija";
- annotation (Icon(graphics={Bitmap(extent={{-78,-80},{78,78}}, fileName= "modelica://slike/SlobodniPad.svg")}));
 end SlobodniPad;
