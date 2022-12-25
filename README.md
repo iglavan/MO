@@ -3,5 +3,5 @@
 
 **Open Modelica Video site:**
 \
-[www.unizd.hr/~iglavan/modelica/>](http://djelatnici.unizd.hr/~iglavan/modelica/)
+[~iglavan/modelica](http://djelatnici.unizd.hr/~iglavan/modelica/)
 
