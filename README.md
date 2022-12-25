@@ -1,5 +1,5 @@
 
- [<img src="http://djelatnici.unizd.hr/~iglavan/slike/modelica/lopticaskocica-ico.png">](http://djelatnici.unizd.hr/~iglavan/slike/modelica/lopticaskocica-ico.svg)
+ [<img src="http://djelatnici.unizd.hr/~iglavan/ico/lopticaskocica-ico.png">](http://djelatnici.unizd.hr/~iglavan/slike/modelica/lopticaskocica-ico.svg)
 
 **MOdelica Video site:**
 \
